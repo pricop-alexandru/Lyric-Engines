@@ -9,7 +9,7 @@ namespace LyricsFinder
 {
     public partial class Form1 : Form
     {
-        private string apiKey = "chUnItIp5WOAQqk-ROxKPKquyvu6omVR-DNeCY4Lb2Egjsb_lbdoqalXanc49e-1";
+        private string apiKey = "REDACTED";
         private string songUrl;
 
         public Form1()
