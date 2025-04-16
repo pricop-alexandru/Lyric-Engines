@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBFu0ILFJd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alegz\\source\\repos\\TheLyricFinder\\TheLyricFinder\\TheLyricFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alegz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Lyrics Finder";
+}
+
+<h1>Search by Lyrics</h1>
+
+<form asp-action="Search" method="post">
+    <div class="form-group">
+        <label for="lyrics">Enter Lyrics:</label>
+        <input type="text" class="form-control" id="lyrics" name="lyrics" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-warning">@ViewBag.Message</div>
+}

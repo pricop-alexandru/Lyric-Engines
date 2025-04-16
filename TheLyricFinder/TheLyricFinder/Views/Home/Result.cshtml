@@ -1,0 +1,24 @@
+﻿@model LyricsFinder.Models.SongInfo
+
+@{
+    ViewData["Title"] = "Search Result";
+}
+
+<h1>Search Result</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="@Model.ThumbnailUrl" class="img-fluid" alt="Song Thumbnail">
+    </div>
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@Model.SongName</h5>
+                <p class="card-text">Artist: @Model.ArtistName</p>
+                <a href="@Model.SongUrl" class="btn btn-primary" target="_blank">Go to Genius Song Page</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-secondary mt-3">Search Again</a>
