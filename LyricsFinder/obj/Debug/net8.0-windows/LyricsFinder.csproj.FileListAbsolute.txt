@@ -1,0 +1,17 @@
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.csproj.AssemblyReference.cache
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.AssemblyInfoInputs.cache
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.AssemblyInfo.cs
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.csproj.CoreCompileInputs.cache
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\LyricsFinder.exe
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\LyricsFinder.deps.json
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\LyricsFinder.runtimeconfig.json
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\LyricsFinder.dll
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\LyricsFinder.pdb
+C:\Users\Alegz\LyricsFinder\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFi.9390BBEE.Up2Date
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.dll
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\refint\LyricsFinder.dll
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.pdb
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\LyricsFinder.genruntimeconfig.cache
+C:\Users\Alegz\LyricsFinder\obj\Debug\net8.0-windows\ref\LyricsFinder.dll
