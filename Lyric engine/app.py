@@ -13,7 +13,7 @@ except:
 
 # asta este API-ul in sine
 def search_songs_by_lyrics(lyrics):
-    api_key = 'chUnItIp5WOAQqk-ROxKPKquyvu6omVR-DNeCY4Lb2Egjsb_lbdoqalXanc49e-1'  # a nu se fura
+    api_key = 'REDACTED'  # a nu se fura
     base_url = 'https://api.genius.com'
     headers = {'Authorization': 'Bearer ' + api_key}
     search_url = base_url + '/search'
