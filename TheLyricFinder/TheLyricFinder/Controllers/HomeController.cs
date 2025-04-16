@@ -8,7 +8,7 @@ namespace TheLyricFinder.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string apiKey = "chUnItIp5WOAQqk-ROxKPKquyvu6omVR-DNeCY4Lb2Egjsb_lbdoqalXanc49e-1";
+        private readonly string apiKey = "REDACTED";
 
         public IActionResult Index()
         {
